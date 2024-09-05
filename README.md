@@ -77,12 +77,12 @@ Running the Application
 - Open the index.html file in your browser.
 - Enter a movie title and press the "Search" button to display the movie data.
 ## <a name="usage">🕸️ Usage</a>
-Search for a Movie: Type the name of the movie in the search bar and press the "Search" button to view the movie details.
+**Search for a Movie**: Type the name of the movie in the search bar and press the "Search" button to view the movie details.
 
-Filter by Genre: Select a genre from the dropdown to filter the results by a specific genre.
+**Filter by Genre**: Select a genre from the dropdown to filter the results by a specific genre.
 
-Sort Movies: Choose a sorting option (highest rating, lowest rating, most votes, or least votes) to re-arrange the movies based on that criteria.
+**Sort Movies**: Choose a sorting option (highest rating, lowest rating, most votes, or least votes) to re-arrange the movies based on that criteria.
 
-View Movie Details: For each movie, you can see the rating, total votes, genre, plot, and cast information.
+**View Movie Details**: For each movie, you can see the rating, total votes, genre, plot, and cast information.
 
-Pagination: Use the "Previous" and "Next" buttons to navigate through the paginated search results.
+**Pagination**: Use the "Previous" and "Next" buttons to navigate through the paginated search results.
